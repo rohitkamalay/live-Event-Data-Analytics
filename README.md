@@ -31,10 +31,26 @@ Overall, the future scope for live event data analysis is promising, and we can 
 ![Screenshot 2023-04-24 215610](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/fff72052-a47e-42b7-a37f-559b1b58f282)
 # Data Visualization 
 ![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/a5b5dc2f-20e3-46f0-ba3c-695a2d8d2707)
+
 ![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/1c9c3bad-3d41-403a-989c-3db72f7b4128)
+
 ![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/7e338085-69d1-4125-89e1-6a3951e39398)
+
 ![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/b80e342a-d079-4edd-ab9a-ed827a8ddc40)
+
+# Analysis of different parameters based on category
 ![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/00115992-d046-4c4c-8a89-57b8d2b255d8)
+# Analysis of different parameters based on Discount
+![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/131050a1-343f-4a1b-a1fa-4301c3530cdc)
+
+![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/e69b19ba-b99a-4af8-a9e3-3626a8fdff19)
+
+![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/c78d894e-bed2-4d21-aceb-f24285d923cb)
+
+# How do user demographics (age, gender) affect the likelihood of taking specific actions on the shopping site?
+![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/3f24d09d-ac9d-42ce-a107-c1550105b379)
+
+
 
 
 
