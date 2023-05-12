@@ -27,3 +27,16 @@ In conclusion, live event data analytics has transformed the management of live 
 
 Overall, the future scope for live event data analysis is promising, and we can expect to see significant advancements in this field in the years to come. 
 
+# screenshots 
+![Screenshot 2023-04-24 215610](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/fff72052-a47e-42b7-a37f-559b1b58f282)
+# Data Visualization 
+![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/a5b5dc2f-20e3-46f0-ba3c-695a2d8d2707)
+![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/1c9c3bad-3d41-403a-989c-3db72f7b4128)
+![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/7e338085-69d1-4125-89e1-6a3951e39398)
+![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/b80e342a-d079-4edd-ab9a-ed827a8ddc40)
+![image](https://github.com/rohitkamalay/live-Event-Data-Analytics/assets/65853505/00115992-d046-4c4c-8a89-57b8d2b255d8)
+
+
+
+
+
