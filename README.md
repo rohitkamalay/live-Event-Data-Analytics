@@ -9,11 +9,11 @@ revolutionized the way live events are managed, creating opportunities for organ
 # EXPLORATORY DATA ANALYSIS (EDA) 
 Exploratory data analysis is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. It helps determine how best to manipulate data sources to get the answers you need, making it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions.
 
-#CONCLUSION 
+# CONCLUSION 
 
 In conclusion, live event data analytics has transformed the management of live events, providing organizers with valuable insights into attendee behavior, optimizing resource allocation, and increasing revenue. While there are challenges associated with collecting and analyzing data in real-time, the benefits of using data analytics are significant, and the field is expected to grow in the coming years. As technology continues to evolve, we can expect to see more sophisticated data analytics solutions that will further enhance the live event experience. This data analytics project aimed to track Live event using exploratory data analysis models and various data sources. Through exploratory data analysis, we identified several factors that contribute to track the events. We then used feature engineering techniques to create new features from the data and selected the Regression Analysis as our final model based on its performance on the testing data. Our results showed that our final model was able to accurately track events and analyze the data, which is a significant improvement over the baseline model.
 
-Live event data analysis has a significant potential for growth and innovation. Some future scopes for live event data analysis are: 
+# Live event data analysis has a significant potential for growth and innovation. Some future scopes for live event data analysis are: 
 
 1. Predictive analysis: Predictive analysis will be a significant area of focus for live event data analysis. By analyzing real-time data, it will be possible to predict event trends, attendee behavior, and engagement levels. This information can be used to optimize the event experience and improve ROI. 
 
